@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../JAVASCRIPT-COURSE"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "javascript-amazon-project-main"
+	}
+}
